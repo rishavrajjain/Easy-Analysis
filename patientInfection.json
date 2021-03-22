@@ -1,0 +1,3714 @@
+[
+  {
+    "@@edgeSet": [
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2837.8184814128.8577533",
+        "from_type": "TravelEvent",
+        "to_id": "3001000002",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "3001000003",
+        "from_type": "Patient",
+        "to_id": "2020-02-2837.8184814128.8577533",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2637.5729503126.9793579",
+        "from_type": "TravelEvent",
+        "to_id": "3001000003",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000068",
+        "from_type": "Patient",
+        "to_id": "2020-02-2637.5729503126.9793579",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000022",
+        "from_type": "Patient",
+        "to_id": "4100000076",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000058",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "4100000009",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000051",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.5413147128.5007697",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000073",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000072",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000055",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000039",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000048",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.8074162127.1512298",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.7869444127.12",
+        "from_type": "TravelEvent",
+        "to_id": "4100000052",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000039",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000086",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000069",
+        "from_type": "Patient",
+        "to_id": "2020-02-2735.2043693129.0801747",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000037",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000055",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000036",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000005",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.8016469127.1225809",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2535.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6004000034",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000083",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000035",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000045",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.8561719129.2247477",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000079",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000005",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.8226032127.1100401",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000026",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.810025127.108783",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000101",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2236.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000029",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.912113127.1312417",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000039",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000004",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "4100000005",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000008",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8306882127.1276186",
+        "from_type": "TravelEvent",
+        "to_id": "4100000087",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000046",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000019",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8226032127.1100401",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000037",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "4100000013",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000022",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000011",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000047",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000064",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000041",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000015",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.7972574127.1311574",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.100814129.018729",
+        "from_type": "TravelEvent",
+        "to_id": "1100000030",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000066",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.1500199129.1107612",
+        "from_type": "TravelEvent",
+        "to_id": "1100000028",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "4100000075",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000050",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8074162127.1512298",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000015",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000016",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000028",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000057",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000017",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000082",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000037",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.912113127.1312417",
+        "from_type": "TravelEvent",
+        "to_id": "4100000016",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2159947129.0771404",
+        "from_type": "TravelEvent",
+        "to_id": "1100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000090",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.5413147128.5007697",
+        "from_type": "TravelEvent",
+        "to_id": "6100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8290434127.0963952",
+        "from_type": "TravelEvent",
+        "to_id": "4100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000046",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.8561719129.2247477",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8306882127.1276186",
+        "from_type": "TravelEvent",
+        "to_id": "4100000088",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.2043693129.0801747",
+        "from_type": "TravelEvent",
+        "to_id": "1100000066",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.789796127.0018494",
+        "from_type": "TravelEvent",
+        "to_id": "4100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.789796127.0018494",
+        "from_type": "TravelEvent",
+        "to_id": "4100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000026",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8489113127.12307",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000068",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000028",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000054",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000029",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000018",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.912113127.1312417",
+        "from_type": "TravelEvent",
+        "to_id": "4100000029",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000037",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8141104127.1078796",
+        "from_type": "TravelEvent",
+        "to_id": "4100000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000031",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000086",
+        "from_type": "Patient",
+        "to_id": "4100000084",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.100814129.018729",
+        "from_type": "TravelEvent",
+        "to_id": "1100000022",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000011",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000022",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000099",
+        "from_type": "Patient",
+        "to_id": "2020-03-0736.8131626127.1722607",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.814962127.11481",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000020",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000106",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000092",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8346175127.1346578",
+        "from_type": "TravelEvent",
+        "to_id": "4100000003",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000082",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.8028806127.1363643",
+        "from_type": "TravelEvent",
+        "to_id": "4100000018",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000023",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.100814129.018729",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8290434127.0963952",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000026",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.789796127.0018494",
+        "from_type": "TravelEvent",
+        "to_id": "4100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000037",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2737.5162581127.042214",
+        "from_type": "TravelEvent",
+        "to_id": "1000000063",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000071",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000058",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000063",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.8306882127.1276186",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8025483127.1191399",
+        "from_type": "TravelEvent",
+        "to_id": "4100000044",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000017",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.8028806127.1363643",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000017",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000090",
+        "from_type": "Patient",
+        "to_id": "2020-03-0136.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0736.832238127.1271977",
+        "from_type": "TravelEvent",
+        "to_id": "4100000100",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000024",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.0943125128.9594325",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000090",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.6127725127.0981666",
+        "from_type": "TravelEvent",
+        "to_id": "1000000034",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2535.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000007",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2535.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000042",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000075",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.912113127.1312417",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000087",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000078",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000034",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.1284582128.3307228",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000060",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000063",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8346175127.1346578",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000051",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000045",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000066",
+        "from_type": "Patient",
+        "to_id": "2020-02-2735.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000086",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8226032127.1100401",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000027",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0135.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000076",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000074",
+        "from_type": "Patient",
+        "to_id": "2020-02-2437.5295808126.9326803",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000032",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.912113127.1312417",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.566535126.9779692",
+        "from_type": "TravelEvent",
+        "to_id": "1100000054",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2737.5162581127.042214",
+        "from_type": "TravelEvent",
+        "to_id": "1000000065",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000017",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.769193126.9322626",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.8047971127.1387529",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000026",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000033",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.2048575129.0836402",
+        "from_type": "TravelEvent",
+        "to_id": "6002000009",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000083",
+        "from_type": "Patient",
+        "to_id": "2020-03-0635.8917943128.5888897",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000018",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000076",
+        "from_type": "Patient",
+        "to_id": "2020-02-2936.8074162127.1512298",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1000000112",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6023000016",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000091",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000017",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2236.8003919127.0516906",
+        "from_type": "TravelEvent",
+        "to_id": "4100000007",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "4100000010",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.814962127.11481",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000004",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000039",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.8016469127.1225809",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1100000077",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000071",
+        "from_type": "Patient",
+        "to_id": "4100000067",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000027",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2337.514543127.106542",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000011",
+        "from_type": "Patient",
+        "to_id": "2020-02-2437.6127725127.0981666",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "1000000047",
+        "from_type": "Patient",
+        "to_id": "1000000064",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.566535126.9779692",
+        "from_type": "TravelEvent",
+        "to_id": "3009000001",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000051",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000002",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8025483127.1191399",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000069",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2236.8270735127.0994369",
+        "from_type": "TravelEvent",
+        "to_id": "4100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000043",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000027",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.814962127.11481",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000045",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.8561719129.2247477",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.789796127.0018494",
+        "from_type": "TravelEvent",
+        "to_id": "4100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000015",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.5413147128.5007697",
+        "from_type": "TravelEvent",
+        "to_id": "6100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000017",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000081",
+        "from_type": "Patient",
+        "to_id": "2020-02-2935.0973646129.0364049",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000038",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.1284582128.3307228",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000027",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000011",
+        "from_type": "Patient",
+        "to_id": "2020-02-2437.566535126.9779692",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.789796127.0018494",
+        "from_type": "TravelEvent",
+        "to_id": "4100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000035",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "4100000012",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000035",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000073",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000059",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6002000014",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0436.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000091",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000088",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.8003919127.0516906",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000053",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000008",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000067",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.8270735127.0994369",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8424375127.1051875",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000025",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8306882127.1276186",
+        "from_type": "TravelEvent",
+        "to_id": "4100000086",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000018",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.100814129.018729",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000016",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.7869444127.12",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000035",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2636.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000043",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000066",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2236.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000022",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6023000047",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6002000012",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000027",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8424375127.1051875",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000036",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000016",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.7972574127.1311574",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000049",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000086",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.8226032127.1100401",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.8083197127.106278",
+        "from_type": "TravelEvent",
+        "to_id": "4100000002",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000021",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000063",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000002",
+        "from_type": "Patient",
+        "to_id": "4100000115",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.814962127.11481",
+        "from_type": "TravelEvent",
+        "to_id": "4100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000059",
+        "from_type": "Patient",
+        "to_id": "4100000061",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000007",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000004",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.8083197127.106278",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2536.8047971127.1387529",
+        "from_type": "TravelEvent",
+        "to_id": "4100000007",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000029",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000094",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000067",
+        "from_type": "Patient",
+        "to_id": "2020-02-2936.8074162127.1512298",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000005",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000106",
+        "from_type": "Patient",
+        "to_id": "2020-03-0736.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000106",
+        "from_type": "Patient",
+        "to_id": "2020-03-0636.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000091",
+        "from_type": "Patient",
+        "to_id": "2020-03-0536.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.6127725127.0981666",
+        "from_type": "TravelEvent",
+        "to_id": "1000000033",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000054",
+        "from_type": "Patient",
+        "to_id": "2020-02-2535.2048575129.0836402",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000035",
+        "from_type": "Patient",
+        "to_id": "2020-02-2336.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0736.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000096",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000046",
+        "from_type": "Patient",
+        "to_id": "2020-02-2836.1404558128.3284075",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000093",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000101",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2535.2048575129.0836402",
+        "from_type": "TravelEvent",
+        "to_id": "1100000069",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000099",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "1100000054",
+        "from_type": "Patient",
+        "to_id": "1100000085",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000078",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000037",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.100814129.018729",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1000000074",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000014",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.2043693129.0801747",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000042",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.789796127.0018494",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000096",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "1100000054",
+        "from_type": "Patient",
+        "to_id": "1100000083",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0135.8722961128.5593097",
+        "from_type": "TravelEvent",
+        "to_id": "1100000078",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000069",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.2048575129.0836402",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000099",
+        "from_type": "Patient",
+        "to_id": "2020-03-0536.8035903127.1367219",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2535.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6002000012",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.5445563128.4922143",
+        "from_type": "TravelEvent",
+        "to_id": "6100000061",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000099",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.8035903127.1367219",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2236.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000094",
+        "from_type": "Patient",
+        "to_id": "2020-03-0436.8035903127.1367219",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000094",
+        "from_type": "Patient",
+        "to_id": "2020-03-0536.8035903127.1367219",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000010",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.1872338129.0591983",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000101",
+        "from_type": "Patient",
+        "to_id": "2020-03-0736.8131626127.1722607",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6023000016",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.8917943128.5888897",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000101",
+        "from_type": "Patient",
+        "to_id": "2020-03-0736.832238127.1271977",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000034",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.0943125128.9594325",
+        "from_type": "TravelEvent",
+        "to_id": "1100000023",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0836.814962127.11481",
+        "from_type": "TravelEvent",
+        "to_id": "4100000103",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0335.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000081",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.5413147128.5007697",
+        "from_type": "TravelEvent",
+        "to_id": "6100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000046",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.2113842129.0798625",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000033",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.2159947129.0771404",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000045",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000101",
+        "from_type": "Patient",
+        "to_id": "2020-03-0836.814962127.11481",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000011",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000029",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000038",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.5445563128.4922143",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000029",
+        "from_type": "Patient",
+        "to_id": "2020-02-2536.810025127.108783",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000081",
+        "from_type": "Patient",
+        "to_id": "2020-03-0135.8722961128.5593097",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000045",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.2113842129.0798625",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.5295808126.9326803",
+        "from_type": "TravelEvent",
+        "to_id": "1000000091",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2636.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000026",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2437.5295808126.9326803",
+        "from_type": "TravelEvent",
+        "to_id": "1000000073",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6002000009",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.814962127.11481",
+        "from_type": "TravelEvent",
+        "to_id": "4100000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000067",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000041",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000046",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000090",
+        "from_type": "Patient",
+        "to_id": "2020-03-0236.815129127.1138939",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000004",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8141104127.1078796",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2935.0973646129.0364049",
+        "from_type": "TravelEvent",
+        "to_id": "1100000078",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000004",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.7972574127.1311574",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000045",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6100000063",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000067",
+        "from_type": "Patient",
+        "to_id": "2020-02-2735.1641139129.1786601",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000078",
+        "from_type": "Patient",
+        "to_id": "2020-02-2935.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000078",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000024",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.100814129.018729",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.160291129.1665893",
+        "from_type": "TravelEvent",
+        "to_id": "1100000019",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000078",
+        "from_type": "Patient",
+        "to_id": "2020-03-0135.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000078",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000008",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-02-2935.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-02-2535.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-03-0135.1872338129.0591983",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2637.4836015127.0334387",
+        "from_type": "TravelEvent",
+        "to_id": "1000000117",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-02-2935.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000009",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000014",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000046",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.8561719129.2247477",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000046",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000033",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000077",
+        "from_type": "Patient",
+        "to_id": "2020-03-0135.1795543129.0756416",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2535.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6004000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.8561719129.2247477",
+        "from_type": "TravelEvent",
+        "to_id": "6002000014",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.1795543129.0756416",
+        "from_type": "TravelEvent",
+        "to_id": "1100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1200000114",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000061",
+        "from_type": "Patient",
+        "to_id": "2020-02-2735.5413147128.5007697",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "6100000083",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000029",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.8489113127.12307",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000091",
+        "from_type": "Patient",
+        "to_id": "2020-02-2437.4562557126.7052062",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000032",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2935.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1000000123",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000009",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.1872338129.0591983",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0536.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000089",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000032",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.2113842129.0798625",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6002000014",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.8917943128.5888897",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000038",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.8714354128.601445",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000034",
+        "from_type": "Patient",
+        "to_id": "2020-03-0136.1399268128.3459335",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000038",
+        "from_type": "Patient",
+        "to_id": "2020-03-0236.1399268128.3459335",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2737.5162581127.042214",
+        "from_type": "TravelEvent",
+        "to_id": "1000000066",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000034",
+        "from_type": "Patient",
+        "to_id": "2020-02-2337.514543127.106542",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000046",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000040",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.8714354128.601445",
+        "from_type": "TravelEvent",
+        "to_id": "1000000047",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000034",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000106",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0736.8131626127.1722607",
+        "from_type": "TravelEvent",
+        "to_id": "4100000100",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000010",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000047",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.0943125128.9594325",
+        "from_type": "TravelEvent",
+        "to_id": "1100000018",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2113842129.0798625",
+        "from_type": "TravelEvent",
+        "to_id": "1100000036",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000019",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "1600000009",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8156927127.1136868",
+        "from_type": "TravelEvent",
+        "to_id": "4100000019",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000019",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2436.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000061",
+        "from_type": "Patient",
+        "to_id": "2020-02-2435.5413147128.5007697",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000017",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.769193126.9322626",
+        "from_type": "TravelEvent",
+        "to_id": "4100000018",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.100814129.018729",
+        "from_type": "TravelEvent",
+        "to_id": "1100000017",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000014",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2635.5445563128.4922143",
+        "from_type": "TravelEvent",
+        "to_id": "6100000051",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000044",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000031",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0136.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000036",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "1100000015",
+        "from_type": "Patient",
+        "to_id": "1100000082",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000061",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.5413147128.5007697",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0836.814962127.11481",
+        "from_type": "TravelEvent",
+        "to_id": "4100000100",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000061",
+        "from_type": "Patient",
+        "to_id": "2020-02-2635.5413147128.5007697",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2336.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000047",
+        "from_type": "Patient",
+        "to_id": "2020-02-2637.5119722126.8332222",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0736.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000093",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6100000051",
+        "from_type": "Patient",
+        "to_id": "2020-02-2735.5445563128.4922143",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000043",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000074",
+        "from_type": "Patient",
+        "to_id": "2020-02-2637.4836015127.0334387",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2335.5413147128.5007697",
+        "from_type": "TravelEvent",
+        "to_id": "6100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2435.100814129.018729",
+        "from_type": "TravelEvent",
+        "to_id": "1100000027",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000008",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.1872338129.0591983",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2537.5162581127.042214",
+        "from_type": "TravelEvent",
+        "to_id": "1000000058",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000069",
+        "from_type": "Patient",
+        "to_id": "2020-02-2936.8156927127.1136868",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0635.8917943128.5888897",
+        "from_type": "TravelEvent",
+        "to_id": "6023000045",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2637.5119722126.8332222",
+        "from_type": "TravelEvent",
+        "to_id": "1000000058",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.5413147128.5007697",
+        "from_type": "TravelEvent",
+        "to_id": "6100000070",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.1641139129.1786601",
+        "from_type": "TravelEvent",
+        "to_id": "1100000061",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2836.1404558128.3284075",
+        "from_type": "TravelEvent",
+        "to_id": "6004000030",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.5445563128.4922143",
+        "from_type": "TravelEvent",
+        "to_id": "6100000056",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000027",
+        "from_type": "Patient",
+        "to_id": "2020-02-2335.1500199129.1107612",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "6004000030",
+        "from_type": "Patient",
+        "to_id": "2020-02-2936.1399268128.3459335",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2237.4562557126.7052062",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2736.8074162127.1512298",
+        "from_type": "TravelEvent",
+        "to_id": "4100000040",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000073",
+        "from_type": "Patient",
+        "to_id": "2020-02-2437.4562557126.7052062",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000037",
+        "from_type": "Patient",
+        "to_id": "2020-02-2736.7972574127.1311574",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000091",
+        "from_type": "Patient",
+        "to_id": "2020-02-2237.4562557126.7052062",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "reverse_INFECTED_BY",
+        "from_id": "4100000006",
+        "from_type": "Patient",
+        "to_id": "4100000050",
+        "to_type": "Patient",
+        "directed": true,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000030",
+        "from_type": "Patient",
+        "to_id": "2020-02-2235.160291129.1665893",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000064",
+        "from_type": "Patient",
+        "to_id": "2020-02-2737.5162581127.042214",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000024",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000033",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000029",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0236.815129127.1138939",
+        "from_type": "TravelEvent",
+        "to_id": "4100000106",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000028",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1100000083",
+        "from_type": "Patient",
+        "to_id": "2020-03-0335.1872338129.0591983",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2735.1641139129.1786601",
+        "from_type": "TravelEvent",
+        "to_id": "1100000068",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2936.1399268128.3459335",
+        "from_type": "TravelEvent",
+        "to_id": "6004000027",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2237.5172363127.0473248",
+        "from_type": "TravelEvent",
+        "to_id": "1000000068",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2235.2043693129.0801747",
+        "from_type": "TravelEvent",
+        "to_id": "1100000038",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "4100000002",
+        "from_type": "Patient",
+        "to_id": "2020-02-2436.7972574127.1311574",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-03-0335.1872338129.0591983",
+        "from_type": "TravelEvent",
+        "to_id": "1100000080",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000065",
+        "from_type": "Patient",
+        "to_id": "2020-02-2237.5172363127.0473248",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "1000000047",
+        "from_type": "Patient",
+        "to_id": "2020-02-2537.5162581127.042214",
+        "to_type": "TravelEvent",
+        "directed": false,
+        "attributes": {}
+      },
+      {
+        "e_type": "PATIENT_TRAVELED",
+        "from_id": "2020-02-2237.5172363127.0473248",
+        "from_type": "TravelEvent",
+        "to_id": "6002000004",
+        "to_type": "Patient",
+        "directed": false,
+        "attributes": {}
+      }
+    ]
+  }
+]
